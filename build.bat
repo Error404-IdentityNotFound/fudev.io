@@ -1,0 +1,1 @@
+wyam -r Blog -t Phantom
