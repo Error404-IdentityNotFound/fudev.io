@@ -1,0 +1,9 @@
+#recipe Blog
+
+// Customize your settings and add new ones here
+Settings[Keys.Host] = "www.fudev.io";
+Settings[BlogKeys.Title] = "Forever Untitled";
+Settings[BlogKeys.Description] = "Welcome!";
+Settings[BlogKeys.Intro] = "This is a test Wyam blog!";
+
+// Add any pipeline customizations here
